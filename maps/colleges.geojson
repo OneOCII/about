@@ -1,0 +1,380 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.334645,
+                    35.774069,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bacone College",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.436244,
+                    34.604967,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cameron University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.590034,
+                    35.536924,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DeVry University of Oklahoma",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.66419,
+                    34.771532,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "East Central University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.255,
+                    35.945,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Langston University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.577237,
+                    35.347349,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mid-America Christian University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.966823,
+                    35.919561,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Northeastern State University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.668741,
+                    36.797681,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Northwestern Oklahoma State University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.93102,
+                    35.359052,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oklahoma Baptist University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.53878,
+                    35.494333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oklahoma City University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.63581,
+                    36.595628,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oklahoma Panhandle State University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.070558,
+                    36.122036,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oklahoma State University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.953259,
+                    36.7204,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oklahoma Wesleyan University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.957726,
+                    36.050477,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oral Roberts University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.630659,
+                    36.318549,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rogers State University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.370824,
+                    33.993986,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Southeastern Oklahoma State University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.631285,
+                    35.51211,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Southern Nazarene University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.707751,
+                    35.534844,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Southwestern Oklahoma State University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.883172,
+                    36.177034,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Spartan College of Aeronautics and Technology",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.954281,
+                    35.367496,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. Gregory&#x27;s University",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.445379,
+                    35.210267,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Oklahoma",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.955144,
+                    35.033671,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Science & Arts of Oklahoma",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.611799,
+                    35.988432,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Tulsa",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.47124,
+                    35.658011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University-Central Oklahoma",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.604801,
+                    35.493327,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vatterott College",
+                "description":""
+            }
+        }
+    ]
+}
