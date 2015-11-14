@@ -309,6 +309,23 @@
                 "description":""
             }
         },
+ {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.445379,
+                    35.210267,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University of Oklahoma",
+                "description":"",
+                "marker-size":"large",
+                "marker-symbol": "star"
+            }
+        },
         {
             "type": "Feature",
             "geometry": {
