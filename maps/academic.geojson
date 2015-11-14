@@ -76,7 +76,21 @@
                 "description":""
             }
         },
-        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.400836,
+                    34.589600, 
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Comanche Nation College",
+                "description":""
+            }
+        },        
         {
             "type": "Feature",
             "geometry": {
