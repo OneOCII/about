@@ -65,7 +65,7 @@ Star indicates that it has been added to a map. This was converted from docx to 
 
 30. \*Oklahoma City U: A, D, E, F, O, T, W 
      * **Educational Alliance for a Parallel Future** mini-supercomputer proposal **funded** in 2011;
-     * taught ***advanced computing courses*** using OSCER’s supercomputer.
+     * Taught ***advanced computing courses*** using OSCER’s supercomputer.
 
 31. \*OK Panhandle State U (***rural***): A,D,O,W
 
@@ -96,7 +96,7 @@ Star indicates that it has been added to a map. This was converted from docx to 
 
 44. \*Southeastern OK State U (***NASNI***, **21.0% AI**): A, D, E, F, O, P, T, W 
     * **Educational Alliance for a Parallel Future** mini-supercomputer grant **funded** in 2011;
-    * taught ***advanced computing courses*** using OSCER’s supercomputer
+    * Taught ***advanced computing courses*** using OSCER’s supercomputer
 
 45. \*Southern Nazarene U (**16.0% AA**): A, D, F, O, P, W 
     * Taught ***computational chemistry course*** using OSCER’s supercomputer.
@@ -112,7 +112,7 @@ Star indicates that it has been added to a map. This was converted from docx to 
     * ***NSF Major Research Instrumentation*** supercomputer grant **funded** in 2014.
 
 50. \*U Oklahoma (PhD): A,D,E,F,I,O,P,S,T,W 
-    * ***NSF Major Research Instrumentation** large scale storage grant **funded** in 2010.
+    * **NSF Major Research Instrumentation** large scale storage grant **funded** in 2010.
 
 51. U Phoenix: D
 
