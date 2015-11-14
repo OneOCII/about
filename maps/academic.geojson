@@ -249,6 +249,40 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -98.528990,
+                    34.625027, 
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lawton Christian School",
+                "description":"",
+                "marker-size":"large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.478511,
+                    35.512602, 
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Metro Technology Centers",
+                "description":"",
+                "marker-size":"large",
+                "marker-symbol": "star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -97.577237,
                     35.347349,
                     0
