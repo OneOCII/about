@@ -88,7 +88,9 @@
             },
             "properties": {
                 "name": "Langston University",
-                "description":""
+                "description":"",
+                "marker-size":"large",
+                "marker-symbol": "star"
             }
         },
         {
@@ -193,7 +195,9 @@
             },
             "properties": {
                 "name": "Oklahoma State University",
-                "description":""
+                "description":"",
+                "marker-size":"large",
+                "marker-symbol": "star"
             }
         },
         {
@@ -208,7 +212,9 @@
             },
             "properties": {
                 "name": "OneNet",
-                "description":""
+                "description":"",
+                "marker-size":"large",
+                "marker-symbol": "star"
             }
         },
         {
@@ -253,7 +259,9 @@
             },
             "properties": {
                 "name": "Southeastern Oklahoma State University",
-                "description":""
+                "description":"",
+                "marker-size":"large",
+                "marker-symbol": "star"
             }
         },
         {
@@ -306,14 +314,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -97.445379,
-                    35.210267,
+                    -95.989605,
+                    36.155342, 
                     0
                 ]
             },
             "properties": {
-                "name": "University of Oklahoma",
-                "description":""
+                "name": "Tandy Supercomputing Center/Oklahoma Innovation Institute",
+                "description":"",
+                "marker-size":"large",
+                "marker-symbol": "star"
             }
         },
         {
@@ -358,7 +368,9 @@
             },
             "properties": {
                 "name": "University Central Oklahoma",
-                "description":""
+                "description":"",
+                "marker-size":"large",
+                "marker-symbol": "star"
             }
         }
     ]
