@@ -111,6 +111,112 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -95.329069,
+                    34.914570, 
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eastern Oklahoma State College",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.268371,
+                    35.517533, 
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eastern OK County Tech Ctr",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.590034,
+                    35.536924,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DeVry University of Oklahoma",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.590034,
+                    35.536924,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DeVry University of Oklahoma",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.590034,
+                    35.536924,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DeVry University of Oklahoma",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.590034,
+                    35.536924,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DeVry University of Oklahoma",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.590034,
+                    35.536924,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "DeVry University of Oklahoma",
+                "description":""
+            }
+        },
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -96.66419,
                     34.771532,
                     0
