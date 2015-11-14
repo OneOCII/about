@@ -51,6 +51,37 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -98.201464,
+                    35.842083, 
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chisholm Trail Technology Center",
+                "description":""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.936372,
+                    35.635551, 
+                    0
+                ]
+            },
+            "properties": {
+                "name": "College of the Muscogee Nation",
+                "description":""
+            }
+        },
+        
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -97.590034,
                     35.536924,
                     0
