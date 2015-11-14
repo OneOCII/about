@@ -201,21 +201,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.953259,
-                    36.7204,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Oklahoma Wesleyan University",
-                "description":""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -95.957726,
                     36.050477,
                     0
@@ -291,28 +276,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -95.883172,
-                    36.177034,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Spartan College of Aeronautics and Technology",
-                "description":""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     -96.954281,
                     35.367496,
                     0
                 ]
             },
             "properties": {
-                "name": "St. Gregory&#x27;s University",
+                "name": "St. Gregory's University",
                 "description":""
             }
         },
@@ -372,24 +342,9 @@
                 ]
             },
             "properties": {
-                "name": "University-Central Oklahoma",
-                "description":""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.604801,
-                    35.493327,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Vatterott College",
+                "name": "University Central Oklahoma",
                 "description":""
             }
         }
     ]
-}
+}       
