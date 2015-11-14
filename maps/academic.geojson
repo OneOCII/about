@@ -141,13 +141,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -97.590034,
-                    35.536924,
+                    -98.287994,
+                    34.781829, 
                     0
                 ]
             },
             "properties": {
-                "name": "DeVry University of Oklahoma",
+                "name": "Elgin Middle School",
                 "description":""
             }
         },
