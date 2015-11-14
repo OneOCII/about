@@ -156,13 +156,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -97.590034,
-                    35.536924,
+                    -97.638668,
+                    35.599727, 
                     0
                 ]
             },
             "properties": {
-                "name": "DeVry University of Oklahoma",
+                "name": "Francis Tuttle Technology Center",
                 "description":""
             }
         },
@@ -171,13 +171,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -97.590034,
-                    35.536924,
+                    -96.908740,
+                    35.380625, 
                     0
                 ]
             },
             "properties": {
-                "name": "DeVry University of Oklahoma",
+                "name": "Gordon Cooper Technology Center",
                 "description":""
             }
         },
@@ -186,13 +186,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -97.590034,
-                    35.536924,
+                    -98.449977,
+                    34.590294, 
                     0
                 ]
             },
             "properties": {
-                "name": "DeVry University of Oklahoma",
+                "name": "Great Plains Technology Center",
                 "description":""
             }
         },
@@ -201,13 +201,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -97.590034,
-                    35.536924,
+                    -96.153299,
+                    34.395359, 
                     0
                 ]
             },
             "properties": {
-                "name": "DeVry University of Oklahoma",
+                "name": "Kiamichi Technology Center",
                 "description":""
             }
         },
