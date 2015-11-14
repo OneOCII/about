@@ -31,6 +31,21 @@
                 "description":""
             }
         },
+         {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.509156, 
+                    -97.882980,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Canadian Valley Technology Center",
+                "description":""
+            }
+        },
         {
             "type": "Feature",
             "geometry": {
