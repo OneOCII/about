@@ -1,9 +1,10 @@
+Star indicates that it has been added to a map. This was converted from docx to md with pandoc.
+
+
 1.  \*Bacone College (***MSI***, **25.0% AI, 29.8% AA**): T
 
 2.  \*Cameron U (**16.6% AA**): A, D, E, F, O, T, W*Taught ***advanced
     > computing courses*** using OSCER’s supercomputer.*
-
-<!-- -->
 
 3.  \*Canadian Valley Tech Ctr: W
 
